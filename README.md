@@ -1,5 +1,4 @@
-Reinforcement-Learning
-Reinforcement-Learning Repository of cart pole control system, includes the topics:
+Reinforcement Learning Repository of cart pole control system, includes the topics:
 
 ► Customisation of the DQN Methodology: Originally developed for Atari game environments, the Deep Q-Network (DQN) was converted for the cart-pole control task.
 
