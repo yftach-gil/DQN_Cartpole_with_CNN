@@ -13,3 +13,5 @@ Reinforcement Learning Repository of cart pole control system, includes the topi
 ► Environment adaptation: In this work a system designed to play atari games was modified for solving control task.
 
 ► Challenges with High-Dimensional Complexity:The solution for the control task achieved results obtained was lower than simpler methods based on lower dimensional environments.
+
+<img width="688" height="400" alt="image" src="https://github.com/user-attachments/assets/ebfa7798-31e7-41b9-9fbe-1ea0f0b85fb4" />
